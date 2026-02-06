@@ -1,6 +1,6 @@
-# Demo
+# This is my first CI/CD practice project and beginner friendly one
 
-some description.
+In this there is a simple HTML page with inline css saying a brief introduction
 
 ## subheader
 
