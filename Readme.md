@@ -2,10 +2,10 @@
 
 In this there is a simple HTML page with inline css saying a brief introduction
 
-## subheader
+## Project URL
 
-Watching basics tutorial about github
+This is the my submission to the project GitHub Pages Deployment
 
-## local Dev
+https://roadmap.sh/projects/github-actions-deployment-workflow
 
-1.open index.html in browser
+
